@@ -14,3 +14,5 @@ Media de avaliaçoes
 Produtos mais e menos vendidos
 <br>
 Frete por loja</p>
+<h2>Ferramenta usanda</h2>
+<p>Google colab</p>
